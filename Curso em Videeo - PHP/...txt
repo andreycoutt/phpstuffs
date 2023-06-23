@@ -2,3 +2,26 @@
 <? ?>       = short tag open php
 <% %>       = ASP tag
 <?= ?>      short tag php
+
+### tipos primitivos escalares ###
+
+    - string                ex: "amanhacer"
+    - int ou integer        ex: 10
+    - float ou double       ex: 10.5
+    - bool ou booleaan      ex: true ou false
+
+var_dump()  mostra o tipo da variavel e o valor.
+
+ser colocar pra escrever na tela uma variavel booleana, o true vai ser 1 e false vai ser vazio " "
+
+### tipos primitivos compostos ###
+
+    - array
+    - object
+
+### tipos primitivos especiais ###
+
+    - null
+    - resource
+    - callabe
+    - mixed
