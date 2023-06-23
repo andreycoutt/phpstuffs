@@ -6,8 +6,8 @@
     <title>Dados do servidor</title>
 </head>
 <body>
-    <h1>Dados do servidor</h1>
-    <?php 
+    <h1>Exibindo dados do servidor</h1>
+    <?php
     phpinfo();
     ?>
 </body>
