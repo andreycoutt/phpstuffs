@@ -1,0 +1,4 @@
+<?php ?>    = super tag php
+<? ?>       = short tag open php
+<% %>       = ASP tag
+<?= ?>      short tag php
