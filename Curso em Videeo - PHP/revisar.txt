@@ -40,8 +40,8 @@ concatenação ocorre atraves do .
 
 
 sequencias de escape
-    - \n    = quebra a linha pra baixo
-    - \t    = tabulação horizontal (tab)
-    - \\    = barra invertida
-    - \$    = sinal de cifrão ($)
-    - \u{}  = codepoint unicode (simbolo, emoji etc)
+    - \n    = quebra a linha pra baixo;
+    - \t    = tabulação horizontal (tab);
+    - \\    = barra invertida;
+    - \$    = sinal de cifrão ($);
+    - \u{}  = codepoint unicode (simbolo, emoji etc);
