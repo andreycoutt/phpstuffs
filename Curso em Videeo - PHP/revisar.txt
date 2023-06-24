@@ -25,3 +25,23 @@ ser colocar pra escrever na tela uma variavel booleana, o true vai ser 1 e false
     - resource
     - callabe
     - mixed
+
+
+### manipulação de string ###
+
+concatenação ocorre atraves do .
+
+    - quatro formatos de string
+
+        - double quoted -> "curso"     | interpreta o conteudo 
+        - single quoted -> 'curso'     | nao interpreta o conteudo, ou seja, exibe como foi escrito.
+        - heredoc
+        - nowdoc
+
+
+sequencias de escape
+    - \n    = quebra a linha pra baixo
+    - \t    = tabulação horizontal (tab)
+    - \\    = barra invertida
+    - \$    = sinal de cifrão ($)
+    - \u{}  = codepoint unicode (simbolo, emoji etc)
