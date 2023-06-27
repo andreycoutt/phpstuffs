@@ -44,4 +44,4 @@ sequencias de escape
     - \t    = tabulação horizontal (tab);
     - \\    = barra invertida;
     - \$    = sinal de cifrão ($);
-    - \u{}  = codepoint unicode (simbolo, emoji etc).
+    - \u{}  = codepoint unicode (simbolo, emoji etc);
