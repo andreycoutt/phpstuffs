@@ -50,4 +50,4 @@ sequencias de escape
 
 formulários
 
-$_REQUEST é uma junção de $_GET, $_POST e $_COOKIES | SÃO SUPER GLOBAL
+$_REQUEST é uma junção de $_GET, $_POST e $_COOKIES | AS 4 SÃO SUPER GLOBAL
