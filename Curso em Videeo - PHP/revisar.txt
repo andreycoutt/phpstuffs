@@ -45,3 +45,9 @@ sequencias de escape
     - \\    = barra invertida;
     - \$    = sinal de cifrão ($);
     - \u{}  = codepoint unicode (simbolo, emoji etc);
+
+
+
+formulários
+
+$_REQUEST é uma junção de $_GET, $_POST e $_COOKIES | SÃO SUPER GLOBAL

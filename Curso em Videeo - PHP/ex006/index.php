@@ -11,7 +11,7 @@
         <h1>Apresente-se para nós</h1>
     </header>
     <section>
-        <form action="cad.php" method="post">
+        <form action="cad.php" method="get">
             <label for="nome">Nome:</label>
             <input type="text" name="nome" id="idnome" placeholder="Digite seu nome">
             <label for="sobrenome">Sobrenome:</label>
@@ -20,9 +20,5 @@
         </form>
     </section>
 
-    <?php 
-    
-    
-    ?>
 </body>
 </html>
