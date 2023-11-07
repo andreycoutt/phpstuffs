@@ -6,7 +6,6 @@
     <title>Olá Mundo</title>
 </head>
 <body>
-    
     <?php 
         echo "ola mundo";
     ?>
