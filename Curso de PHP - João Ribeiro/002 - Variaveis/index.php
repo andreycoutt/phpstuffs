@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-
-
     <?php
         $variavel = 100;
         $var1 = 0;
