@@ -12,7 +12,8 @@ $x = 4 % 2; # modulo (resto da divisão)
 
 
 echo $variavel;
+echo '<br>';
 echo 3462 / 7;
 echo '<br>';
-echo 3462 
+echo 3462 % 7;
  
