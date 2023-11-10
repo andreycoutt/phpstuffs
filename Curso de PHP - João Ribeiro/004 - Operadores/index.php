@@ -20,4 +20,11 @@ echo '<br>';
 
 $h = 4 ** 2;
 echo $h;
- 
+
+echo '<br>';
+
+$a = 10;
+
+$a = $a + 20;
+
+echo $a;
