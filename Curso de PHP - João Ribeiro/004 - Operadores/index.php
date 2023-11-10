@@ -17,4 +17,7 @@ echo 3462 / 7;
 echo '<br>';
 echo 3462 % 7;
 echo '<br>';
+
+$h = 4 ** 2;
+echo $h;
  
