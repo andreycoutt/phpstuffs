@@ -9,4 +9,10 @@ $x = 4 - 2; # subtração
 $x = 4 * 2; # multiplicação
 $x = 4 / 2; # divisão
 $x = 4 % 2; # modulo (resto da divisão)
+
+
+echo $variavel;
+echo 3462 / 7;
+echo '<br>';
+echo 3462 
  
