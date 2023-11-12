@@ -7,4 +7,4 @@ echo $a;
 
 
 $b = $a / 2;
-echo
+echo $
