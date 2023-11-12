@@ -14,3 +14,9 @@ echo '<br>';
 
 $c = $a * 3;
 echo $c;
+
+echo '<br>';
+
+$d = 20;
+echo $d++;
+echo '<br>'
