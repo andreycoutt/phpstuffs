@@ -12,4 +12,4 @@ echo $b;
 
 
 $c = $a * 3;
-echo $
+echo $c
