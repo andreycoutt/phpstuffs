@@ -19,4 +19,5 @@ echo '<br>';
 
 $d = 20;
 echo $d++;
-echo '<br>'
+echo '<br>';
+echo $d;
